@@ -1,4 +1,4 @@
-const btn = document.querySelector('#btn--check');
+;const btn = document.querySelector('#btn--check');
 const gif = document.querySelector('#gif');
 const date = document.querySelector('#txt--date');
 const output = document.querySelector('.txt--output');

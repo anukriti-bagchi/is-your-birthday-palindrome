@@ -1,4 +1,4 @@
 # is-your-birtday-palindrome
  
-This is a mark13 assignment by neoG camp for level 0.
-We get to use explore more about DOM methods and properties, dates in js along with the Asychronous JS while using setTimeout().
+This is a Mark13 assignment by NeoG camp for level 0.
+We get to explore more about DOM methods and properties, dates in javascript along with the Asychronous Javascript while using setTimeout().
