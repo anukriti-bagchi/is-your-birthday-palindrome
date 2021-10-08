@@ -10,7 +10,7 @@ btn.addEventListener('click', () => {
     } else {
         gif.style.display = 'block';
         setTimeout(() => {
-            gif.style.display = 'none'
+            gif.style.display = 'none';
         },5000);
         setTimeout(() => callPalindrome(date.value) ,5000);
     }
