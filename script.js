@@ -23,7 +23,7 @@ function dateToString(date) {
     if (dd < 10) {
         dd = '0' + dd
     }
-    if (mm < 10) {
+    if (mm < 30) {
         mm = '0' + mm
     }
     return date.getFullYear() + '-' + mm + '-' + dd;
