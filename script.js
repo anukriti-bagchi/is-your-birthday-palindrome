@@ -30,9 +30,9 @@ function dateToString(date) {
 }
 
 let today = new Date();
-let maxDate = dateToString(today);
-date.setAttribute("max", maxDate);
-date.setAttribute("value", maxDate);
+let maxDate = dateToString(today);;
+date.setAttribute("max", maxDate);;
+date.setAttribute("value", maxDate);;
 
 const findNextPalindrome = (dateList) => {
     let curDate = new Date(dateList.join('-'));
