@@ -30,7 +30,7 @@ function dateToString(date) {
 }
 
 let today = new Date();
-let maxDate = dateToString(today);;
+let maxDate = dateToString(today);
 date.setAttribute("max", maxDate);;
 date.setAttribute("value", maxDate);;
 
